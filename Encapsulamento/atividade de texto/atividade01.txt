@@ -1,0 +1,6 @@
+1. Nós usamos o modificador de acesso private a fim de:
+
+c) Limitar o acesso aos métodos
+b) Limitar o acesso às propriedades
+
+[d) B e C estão corretas]X
